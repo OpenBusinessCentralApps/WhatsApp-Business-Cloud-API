@@ -1,0 +1,35 @@
+﻿{
+    "id":  "a81005de-a989-4b7e-8af1-8ac3644ec901",
+    "name":  "WhatsApp Business Cloud API",
+    "publisher":  "Open Business Central Apps",
+    "version":  "20.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "https://github.com/OpenBusinessCentralApps/WhatsApp-Business-Cloud-API/",
+    "logo":  "",
+    "dependencies":  [
+
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "20.0.0.0",
+    "application":  "20.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  52500,
+                         "to":  52600
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  true,
+                                   "includeSourceInSymbolFile":  true
+                               },
+    "features": [
+        "TranslationFile"
+    ]
+}

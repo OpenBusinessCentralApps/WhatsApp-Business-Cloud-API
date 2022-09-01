@@ -1,7 +1,9 @@
 {
     "country":  "us",
     "appFolders":  [
+        "WhatsAppCloudAPI"
     ],
     "testFolders":  [
+        "WhatsAppCloudAPI.Test"
     ]
 }
