@@ -1,5 +1,5 @@
-# AL-Go Template
-## Per Tenant Extension Project
-This template repository can be used for managing Per Tenant Extensions for Business Central.
+# WhatsApp Business Cloud API
+Welcome to this Open Source App, which integrates the WhatsApp Business Cloud API inside Business Central.
 
-Please consult https://github.com/microsoft/AL-Go/#readme for scenarios on usage
+## Contribute
+Please fork this repository and submit a Pull Request with your suggested changes.
