@@ -47,7 +47,7 @@ jobs:
         with:
           parentTelemetryScopeJson: ${{ steps.init.outputs.telemetryScopeJson }}
           getProjects: 'Y'
-          getEnvironments: '*'
+          getEnvironments: ''
 
   CheckForUpdates:
     runs-on: [ windows-latest ]
