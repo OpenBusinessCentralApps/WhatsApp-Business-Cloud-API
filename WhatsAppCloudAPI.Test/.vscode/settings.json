@@ -1,0 +1,5 @@
+{
+    "CRS.ObjectNamePrefix": "obc WA Test",
+    "CRS.RemovePrefixFromFilename": true,
+    "al.ruleSetPath": ".codeanalysis/ignoreRuleset.ruleset.json",
+}
