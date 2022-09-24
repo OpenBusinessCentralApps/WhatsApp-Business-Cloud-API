@@ -1,0 +1,20 @@
+{
+    "name": "Ignore Ruleset",
+    "description": "These rules are ignored",
+    "rules": [
+        {
+            "id": "AS0051",
+            "action": "Hidden",
+            "justification": "This is a Template"
+        },
+        {
+            "id": "AS0084",
+            "action": "Hidden",
+            "justification": "Objectrange in Template does not matter"
+        },
+        {
+            "id": "AA0072",
+            "action": "Hidden"
+        }
+    ]
+}
