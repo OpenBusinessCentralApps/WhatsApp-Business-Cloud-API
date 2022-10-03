@@ -1,4 +1,4 @@
-codeunit 50201 "obc WA Test Upgrade"
+codeunit 77051 "obc WA Test Upgrade"
 {
     Subtype = Upgrade;
 

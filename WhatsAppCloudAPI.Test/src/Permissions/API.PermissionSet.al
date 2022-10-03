@@ -1,4 +1,4 @@
-permissionset 50200 "obc WA Test API"
+permissionset 77050 "obc WA Test API"
 {
     Assignable = true;
     IncludedPermissionSets = "obc WA CloudAPI";

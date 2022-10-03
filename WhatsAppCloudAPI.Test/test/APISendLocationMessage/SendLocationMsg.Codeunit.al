@@ -1,4 +1,4 @@
-codeunit 50208 "obc WA Test SendLocationMsg"
+codeunit 77058 "obc WA Test SendLocationMsg"
 {
     Subtype = Test;
     TestPermissions = Disabled;

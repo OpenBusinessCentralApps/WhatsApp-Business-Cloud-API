@@ -1,4 +1,4 @@
-codeunit 50203 "obc WA Test Contact Msg" implements "obc WA IContactMessage"
+codeunit 77053 "obc WA Test Contact Msg" implements "obc WA IContactMessage"
 {
     procedure SendContactMessage(Endpoint: enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param ContactMessage", Text]; var HttpResponse: HttpResponseMessage): Boolean;
     var

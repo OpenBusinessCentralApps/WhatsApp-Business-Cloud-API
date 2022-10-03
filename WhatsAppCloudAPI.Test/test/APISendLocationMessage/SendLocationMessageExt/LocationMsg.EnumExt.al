@@ -1,4 +1,4 @@
-enumextension 50203 "obc WA Test Location Msg" extends "obc WA API LocationMessage"
+enumextension 77053 "obc WA Test Location Msg" extends "obc WA API LocationMessage"
 {
     value(50200; "obc Wa Test")
     {

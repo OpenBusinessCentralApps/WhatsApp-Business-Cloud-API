@@ -1,4 +1,4 @@
-codeunit 50211 "obc WA Test SendMediaMsg"
+codeunit 77061 "obc WA Test SendMediaMsg"
 {
     Subtype = Test;
     TestPermissions = Disabled;

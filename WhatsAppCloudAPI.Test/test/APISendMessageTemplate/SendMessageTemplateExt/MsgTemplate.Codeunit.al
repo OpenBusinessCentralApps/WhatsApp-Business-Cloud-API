@@ -1,4 +1,4 @@
-codeunit 50213 "obc WA Test Msg Template" implements "obc WA IMessageTemplate"
+codeunit 77063 "obc WA Test Msg Template" implements "obc WA IMessageTemplate"
 {
 
     procedure SendMessageTemplate(Endpoint: enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param MessageTemplate", Text]; var HttpResponse: HttpResponseMessage): Boolean;

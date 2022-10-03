@@ -1,4 +1,4 @@
-codeunit 50200 "obc WA Test Install"
+codeunit 77050 "obc WA Test Install"
 {
     Subtype = Install;
 

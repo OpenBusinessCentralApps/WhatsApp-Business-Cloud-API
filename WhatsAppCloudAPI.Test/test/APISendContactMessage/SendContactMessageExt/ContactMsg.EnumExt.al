@@ -1,4 +1,4 @@
-enumextension 50200 "obc WA Test Contact Msg" extends "obc WA API ContactMessage"
+enumextension 77050 "obc WA Test Contact Msg" extends "obc WA API ContactMessage"
 {
     value(50200; "obc Wa Test")
     {

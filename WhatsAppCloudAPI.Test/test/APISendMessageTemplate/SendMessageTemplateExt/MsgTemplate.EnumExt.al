@@ -1,4 +1,4 @@
-enumextension 50205 "obc WA Test MsgTemplate" extends "obc WA API MessageTemplate"
+enumextension 77055 "obc WA Test MsgTemplate" extends "obc WA API MessageTemplate"
 {
     value(50200; "obc Wa Test")
     {
