@@ -1,4 +1,4 @@
-enum 52514 "obc WA API GenericMessage" implements "obc WA IGenericMessage"
+enum 77014 "obc WA API GenericMessage" implements "obc WA IGenericMessage"
 {
     Extensible = true;
     Access = Public;

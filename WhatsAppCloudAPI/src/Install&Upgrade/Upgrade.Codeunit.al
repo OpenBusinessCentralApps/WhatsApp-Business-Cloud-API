@@ -1,4 +1,4 @@
-codeunit 52504 "obc WA Upgrade"
+codeunit 77004 "obc WA Upgrade"
 {
     Subtype = Upgrade;
     Access = Internal;

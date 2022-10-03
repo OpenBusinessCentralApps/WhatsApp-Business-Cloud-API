@@ -1,4 +1,4 @@
-enum 52513 "obc WA Param InteractiveMsg"
+enum 77013 "obc WA Param InteractiveMsg"
 {
     Extensible = true;
     Access = Public;

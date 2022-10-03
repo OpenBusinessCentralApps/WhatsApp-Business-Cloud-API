@@ -1,4 +1,4 @@
-codeunit 52510 "obc WA Contact Message v13" implements "obc WA IContactMessage"
+codeunit 77010 "obc WA Contact Message v13" implements "obc WA IContactMessage"
 {
     Access = Internal;
     procedure SendContactMessage(Endpoint: Enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param ContactMessage", Text]; var HttpResponse: HttpResponseMessage): Boolean;

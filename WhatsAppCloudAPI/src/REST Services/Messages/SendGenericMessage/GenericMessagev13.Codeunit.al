@@ -1,4 +1,4 @@
-codeunit 52513 "obc WA Generic Message v13" implements "obc WA IGenericMessage"
+codeunit 77013 "obc WA Generic Message v13" implements "obc WA IGenericMessage"
 {
     Access = Internal;
     procedure SendGenericMessage(Endpoint: Enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param GenericMessage", Text]; var HttpResponse: HttpResponseMessage): Boolean;

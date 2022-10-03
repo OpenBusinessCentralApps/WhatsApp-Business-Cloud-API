@@ -1,4 +1,4 @@
-enum 52512 "obc WA API InteractiveMsg" implements "obc WA IInteractiveMessage"
+enum 77012 "obc WA API InteractiveMsg" implements "obc WA IInteractiveMessage"
 {
     Extensible = true;
     Access = Public;

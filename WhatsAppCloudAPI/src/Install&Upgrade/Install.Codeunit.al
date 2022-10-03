@@ -1,4 +1,4 @@
-codeunit 52503 "obc WA Install"
+codeunit 77003 "obc WA Install"
 {
     Subtype = Install;
     Access = Internal;

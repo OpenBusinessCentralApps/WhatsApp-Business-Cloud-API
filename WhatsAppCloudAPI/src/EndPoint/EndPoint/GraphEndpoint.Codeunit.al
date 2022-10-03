@@ -1,4 +1,4 @@
-codeunit 52500 "obc WA Graph Endpoint" implements "obc WA IEndpoint"
+codeunit 77000 "obc WA Graph Endpoint" implements "obc WA IEndpoint"
 {
     Access = Internal;
 

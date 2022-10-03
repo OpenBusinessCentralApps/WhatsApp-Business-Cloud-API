@@ -1,4 +1,4 @@
-codeunit 52502 "obc WA API Messages"
+codeunit 77002 "obc WA API Messages"
 {
     Access = Public;
 

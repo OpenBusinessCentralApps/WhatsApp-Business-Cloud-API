@@ -1,4 +1,4 @@
-codeunit 52508 "obc WA Text Message v13" implements "obc WA ITextMessage"
+codeunit 77008 "obc WA Text Message v13" implements "obc WA ITextMessage"
 {
     Access = Internal;
     procedure SendTextMessage(Endpoint: Enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param TextMessage", Text]; var HttpResponse: HttpResponseMessage): Boolean;

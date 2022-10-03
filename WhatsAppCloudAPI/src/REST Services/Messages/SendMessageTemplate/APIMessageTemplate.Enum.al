@@ -1,4 +1,4 @@
-enum 52501 "obc WA API MessageTemplate" implements "obc WA IMessageTemplate"
+enum 77001 "obc WA API MessageTemplate" implements "obc WA IMessageTemplate"
 {
     Extensible = true;
     Access = Public;

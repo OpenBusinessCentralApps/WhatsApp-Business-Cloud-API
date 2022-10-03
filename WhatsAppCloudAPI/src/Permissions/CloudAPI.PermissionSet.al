@@ -1,4 +1,4 @@
-permissionset 52500 "obc WA CloudAPI"
+permissionset 77000 "obc WA CloudAPI"
 {
     Caption = 'Whats App Cloud API';
     Access = Public;

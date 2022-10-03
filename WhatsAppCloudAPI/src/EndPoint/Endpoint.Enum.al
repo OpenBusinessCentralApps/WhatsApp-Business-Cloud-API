@@ -1,4 +1,4 @@
-enum 52500 "obc WA Endpoint" implements "obc WA IEndpoint"
+enum 77000 "obc WA Endpoint" implements "obc WA IEndpoint"
 {
     Access = Public;
     Extensible = true;

@@ -1,4 +1,4 @@
-enum 52511 "obc WA MediaMessage Type"
+enum 77011 "obc WA MediaMessage Type"
 {
     Extensible = true;
     Access = Public;

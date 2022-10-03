@@ -1,4 +1,4 @@
-enum 52505 "obc WA Param LocationMessage"
+enum 77005 "obc WA Param LocationMessage"
 {
     Extensible = true;
     Access = Public;

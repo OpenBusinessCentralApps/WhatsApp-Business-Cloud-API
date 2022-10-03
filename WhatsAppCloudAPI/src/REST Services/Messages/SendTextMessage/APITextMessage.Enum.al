@@ -1,4 +1,4 @@
-enum 52503 "obc WA API TextMessage" implements "obc WA ITextMessage"
+enum 77003 "obc WA API TextMessage" implements "obc WA ITextMessage"
 {
     Extensible = true;
     Access = Public;

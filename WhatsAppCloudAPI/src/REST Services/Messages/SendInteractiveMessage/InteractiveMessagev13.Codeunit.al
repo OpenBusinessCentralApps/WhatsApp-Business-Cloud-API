@@ -1,4 +1,4 @@
-codeunit 52512 "obc WA Interactive Message v13" implements "obc WA IInteractiveMessage"
+codeunit 77012 "obc WA Interactive Message v13" implements "obc WA IInteractiveMessage"
 {
     Access = Internal;
     procedure SendInteractiveMessage(Endpoint: Enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param InteractiveMsg", Text]; var HttpResponse: HttpResponseMessage): Boolean;

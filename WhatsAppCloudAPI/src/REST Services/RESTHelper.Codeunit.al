@@ -1,4 +1,4 @@
-codeunit 52506 "obc WA REST Helper"
+codeunit 77006 "obc WA REST Helper"
 {
     Access = Public;
 

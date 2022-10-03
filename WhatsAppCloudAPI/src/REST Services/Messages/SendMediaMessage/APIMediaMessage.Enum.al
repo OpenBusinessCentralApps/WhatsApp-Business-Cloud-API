@@ -1,4 +1,4 @@
-enum 52509 "obc WA API MediaMessage" implements "obc WA IMediaMessage"
+enum 77009 "obc WA API MediaMessage" implements "obc WA IMediaMessage"
 {
     Extensible = true;
     Access = Public;

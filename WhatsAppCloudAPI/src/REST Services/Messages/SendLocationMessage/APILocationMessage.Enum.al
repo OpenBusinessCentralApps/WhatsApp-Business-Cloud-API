@@ -1,4 +1,4 @@
-enum 52506 "obc WA API LocationMessage" implements "obc WA ILocationMessage"
+enum 77006 "obc WA API LocationMessage" implements "obc WA ILocationMessage"
 {
     Extensible = true;
     Access = Public;

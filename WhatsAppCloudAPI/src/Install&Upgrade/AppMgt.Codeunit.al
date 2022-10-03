@@ -1,4 +1,4 @@
-codeunit 52505 "obc WA App Mgt."
+codeunit 77005 "obc WA App Mgt."
 {
     Access = Public;
 

@@ -1,4 +1,4 @@
-enum 52502 "obc WA Param MessageTemplate"
+enum 77002 "obc WA Param MessageTemplate"
 {
     Extensible = true;
     Access = Public;

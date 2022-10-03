@@ -1,4 +1,4 @@
-codeunit 52511 "obc WA Media Message v13" implements "obc WA IMediaMessage"
+codeunit 77011 "obc WA Media Message v13" implements "obc WA IMediaMessage"
 {
     Access = Internal;
     procedure SendMediaMessage(Endpoint: Enum "obc WA Endpoint"; MediaMessageType: Enum "obc WA MediaMessage Type"; Parameter: Dictionary of [enum "obc WA Param MediaMessage", Text]; var HttpResponse: HttpResponseMessage): Boolean;

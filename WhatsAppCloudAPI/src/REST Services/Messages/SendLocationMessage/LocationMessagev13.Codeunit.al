@@ -1,4 +1,4 @@
-codeunit 52509 "obc WA Location Message v13" implements "obc WA ILocationMessage"
+codeunit 77009 "obc WA Location Message v13" implements "obc WA ILocationMessage"
 {
     Access = Internal;
     procedure SendLocationMessage(Endpoint: Enum "obc WA Endpoint"; Parameter: Dictionary of [enum "obc WA Param LocationMessage", Text]; var HttpResponse: HttpResponseMessage): Boolean;
