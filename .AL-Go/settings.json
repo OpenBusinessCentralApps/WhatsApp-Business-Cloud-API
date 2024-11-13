@@ -1,9 +1,10 @@
 {
-    "country":  "us",
-    "appFolders":  [
-        "WhatsAppCloudAPI"
-    ],
-    "testFolders":  [
-        "WhatsAppCloudAPI.Test"
-    ]
+  "country": "us",
+  "appFolders": [
+    "WhatsAppCloudAPI"
+  ],
+  "testFolders": [
+    "WhatsAppCloudAPI.Test"
+  ],
+  "repoVersion": "20.1"
 }
